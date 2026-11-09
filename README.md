@@ -1,2 +1,1 @@
-# chaos-wiki
-Chaos wiki yay yipee
+Chaos Wiki
